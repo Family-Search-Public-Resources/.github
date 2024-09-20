@@ -29,7 +29,7 @@ To help you on your genealogical journey, we've compiled documentation and learn
 
 - **[Project Documentation](https://github.com/family-history-research/docs)** - Comprehensive guides on using our tools.
 - **[Wiki](https://github.com/family-history-research/wiki)** - Community-curated knowledge base and FAQ for common research challenges.
-- **[Getting Started Guide](profile/getting-started.md)** - New to family history research? Start here!
+- **[Getting Started Guide](https://github.com/Family-Search-Public-Resources/.github/blob/main/profile/getting-started.md)** - New to family history research? Start here!
 
 ## Why is Family History Important?
 
