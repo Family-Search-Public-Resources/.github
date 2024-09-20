@@ -25,7 +25,7 @@ We welcome contributions from the community! Whether you're experienced with gen
 - Participating in discussions and brainstorming sessions on how to improve the tools and resources available.
 - Create new resources that can be shared with this community to enhance family history research efforts.
 
-Make sure to check out our [contribution guidelines](https://github.com/family-history-research/.github/blob/main/CONTRIBUTING.md) to get started!
+Make sure to check out our [contribution guidelines](https://github.com/Family-Search-Public-Resources/.github/blob/main/profile/contributing.md) to get started!
 
 ## Resources
 
