@@ -2,6 +2,10 @@
 
 Welcome to the [Family History Research Hub](https://github.com/family-search-public-resources)! We are a community-driven organization in association with [FamilySearch](https://www.familysearch.org), dedicated to bringing family history-related data and resources to the public. Whether you're a passionate hobbyist or a professional researcher, our mission is to provide tools, datasets, and collaborative projects to help you discover and share your family's story as a piece of the tapestry of the history of the world.
 
+## What is Family History and Why is it Important?
+
+Genealogy is the study of family lines and discovering family history. It's all about discovering the powerful stories that have shaped our lives. The story of the world is a story of families. In a time when people seem to be ever more divided, our collective story is a tool that can bring us together. When we learn about our ancestors, and with them the history of the world, we gain a special ability to connect with ourselves and with others. With the tools and resources here, you can uncover mighty things about your family history. Ready to get started? Explore our repositories and start your journey today!
+
 ## What Do We Do?
 
 Our goal is to make family history research more accessible and effective. We offer a variety of open-source tools and datasets to assist with genealogical research, and we strive to continually expand the scope and quality of the resources available to you. By joining our organization, you can:
@@ -30,7 +34,3 @@ To help you on your genealogical journey, we've compiled documentation and learn
 - **[Project Documentation](https://github.com/family-history-research/docs)** - Comprehensive guides on using our tools.
 - **[Wiki](https://github.com/family-history-research/wiki)** - Community-curated knowledge base and FAQ for common research challenges.
 - **[Getting Started Guide](https://github.com/Family-Search-Public-Resources/.github/blob/main/profile/getting-started.md)** - New to family history research? Start here!
-
-## Why is Family History Important?
-
-Genealogy is about discovering the powerful stories that have shaped our lives. The story of the world is a story of families. In a time when people seem to be ever more divided, our collective story is a tool that can bring us together. When we learn about our ancestors, and with them the history of the world, we gain a special ability to connect with ourselves and with others. With the tools and resources here, you can uncover mighty things about your family history. Ready to get started? Explore our repositories and start your journey today!
